@@ -3,7 +3,8 @@ import ReactSlider from 'react-slider';
 
 export const FilterTitle = styled.div`
   height: 32px;
-  font: normal normal normal 16px/16px Roboto, sans-serif;
+  font-size: 16px;
+  line-height: 16px;
   color: #9c8c8c;
 `;
 
@@ -62,7 +63,8 @@ export const Input = styled.input`
 
 export const InputCurrency = styled.div`
   text-align: right;
-  font: normal normal normal 16px/16px Roboto, sans-serif;
+  font-size: 16px;
+  line-height: 16px;
   letter-spacing: 0px;
   color: #9c8c8c;
   opacity: 1;
