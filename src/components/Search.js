@@ -52,7 +52,8 @@ const TypeContainer = styled.div`
 
 const FilterTitle = styled.div`
   height: 32px;
-  font: normal normal normal 16px/16px Roboto, sans-serif;
+  font-size: 16px;
+  line-height: 16px;
   color: #9c8c8c;
 `;
 
