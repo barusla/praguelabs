@@ -119,7 +119,8 @@ const CaravanPrice = styled.div`
 
 const StrongPrice = styled.header`
   text-align: right;
-  font: normal normal bold 16px/16px Roboto, sans-serif;
-  letter-spacing: 0px;
+  font-size: 16px;
+  line-height: 16px;
+  font-weight: bold;
   color: #1f2244;
 `;
